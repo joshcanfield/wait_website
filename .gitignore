@@ -4,3 +4,4 @@ _site/
 npm-debug.log*
 missing_report.csv
 session-changes.md
+.playwright-mcp/
