@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
     "misc": "misc",
     "sites": "sites"
   });
+  eleventyConfig.addPassthroughCopy("CNAME");
 
   // Watch these for local dev convenience
   eleventyConfig.addWatchTarget("modules");

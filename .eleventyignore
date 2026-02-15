@@ -4,6 +4,8 @@ _site/
 .idea/
 scripts/
 AGENTS.md
+CLAUDE.md
+README.md
 session-changes.md
 missing_report.csv
 
